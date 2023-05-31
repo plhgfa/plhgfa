@@ -10,4 +10,4 @@
 ## My Python version 
 ![Python version](https://img.shields.io/badge/python-%203.9%20%7C%203.10-black)
 ## Follow me
-[![Telegram](https://img.shields.io/badge/-telegram-red?color=black&logo=telegram&logoColor=)](https://t.me/artemfromgithub)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artemfromgithub)
