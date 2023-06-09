@@ -6,7 +6,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=plhgfa&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plhgfa&layout=compact&theme=tokyonight)
 ## Programming Language
-![Python](https://img.shields.io/badge/python-3670A1?style=for-the-badge&logo=python&logoColor=tokyonight)
+![Python](https://img.shields.io/badge/python-3670A1?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## My Python version 
 ![Python version](https://img.shields.io/badge/python-%203.9%20%7C%203.10-black)
 
